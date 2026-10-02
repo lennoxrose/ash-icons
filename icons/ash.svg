@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150px" height="150px" viewBox="0 0 150 150" version="1.1">
+<g id="surface1">
+<path style="fill-rule:nonzero;fill:rgb(61.960787%,13.725491%,12.156863%);fill-opacity:1;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(61.960787%,13.725491%,12.156863%);stroke-opacity:1;stroke-miterlimit:4;" d="M 64 8 L 24 48 L 64 71.5 Z M 64 8 " transform="matrix(1.171875,0,0,1.171875,0,0)"/>
+<path style="fill-rule:nonzero;fill:rgb(49.019608%,7.058824%,7.843138%);fill-opacity:1;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(49.019608%,7.058824%,7.843138%);stroke-opacity:1;stroke-miterlimit:4;" d="M 64 8 L 104 48 L 64 71.5 Z M 64 8 " transform="matrix(1.171875,0,0,1.171875,0,0)"/>
+<path style="fill-rule:nonzero;fill:rgb(75.294119%,37.64706%,11.764706%);fill-opacity:1;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(75.294119%,37.64706%,11.764706%);stroke-opacity:1;stroke-miterlimit:4;" d="M 24 48 L 64 71.5 L 44.4 86.7 Z M 24 48 " transform="matrix(1.171875,0,0,1.171875,0,0)"/>
+<path style="fill-rule:nonzero;fill:rgb(63.529414%,15.686275%,13.333334%);fill-opacity:1;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(63.529414%,15.686275%,13.333334%);stroke-opacity:1;stroke-miterlimit:4;" d="M 104 48 L 64 71.5 L 83.6 86.7 Z M 104 48 " transform="matrix(1.171875,0,0,1.171875,0,0)"/>
+<path style="fill-rule:nonzero;fill:rgb(85.09804%,54.11765%,16.862746%);fill-opacity:1;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(85.09804%,54.11765%,16.862746%);stroke-opacity:1;stroke-miterlimit:4;" d="M 44.4 86.7 L 64 71.5 L 64 120 Z M 44.4 86.7 " transform="matrix(1.171875,0,0,1.171875,0,0)"/>
+<path style="fill-rule:nonzero;fill:rgb(70.19608%,35.294119%,10.196079%);fill-opacity:1;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(70.19608%,35.294119%,10.196079%);stroke-opacity:1;stroke-miterlimit:4;" d="M 64 71.5 L 83.6 86.7 L 64 120 Z M 64 71.5 " transform="matrix(1.171875,0,0,1.171875,0,0)"/>
+</g>
+</svg>

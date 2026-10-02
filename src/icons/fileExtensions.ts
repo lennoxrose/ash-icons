@@ -7,6 +7,7 @@ export default {
   ...make(image, "_f_image"),
   "4th": "_f_forth",
   "7z": "_f_zip",
+  ash: "_f_ash",
   a51: "_f_assembly",
   aab: "_f_android",
   abc: "_f_abc",

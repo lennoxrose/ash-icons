@@ -398,6 +398,7 @@ const icons: Icon = {
   ...folderIcon("folder_webpack_open"),
   ...folderIcon("folder_wordpress"),
   ...folderIcon("folder_wordpress_open"),
+  ...icon("ash"),
   ...icon("3d"),
   ...icon("abc"),
   ...icon("actionscript"),

@@ -52,14 +52,14 @@
     "generate": "node --no-warnings folder-icon-maker/generate.ts"
   },
   "devDependencies": {
-    "@types/node": "24.13.6",
+    "@types/node": "24.19.1",
     "@types/vscode": "1.60.0",
     "@vscode/vsce": "4.0.0",
-    "greenly": "1.1.6",
+    "greenly": "1.2.0",
     "ovsx": "1.2.0",
-    "oxfmt": "0.70.0",
-    "oxlint": "1.85.0",
-    "oxlint-tsgolint": "^7.0.2002",
+    "oxfmt": "0.71.0",
+    "oxlint": "1.86.0",
+    "oxlint-tsgolint": "7.0.2003",
     "tsdown": "0.23.0",
     "typescript": "7.0.2"
   },

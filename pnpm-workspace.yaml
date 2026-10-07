@@ -9,3 +9,5 @@ trustPolicyExclude:
 allowBuilds:
   "@vscode/vsce-sign": true
   keytar: true
+minimumReleaseAgeExclude:
+  - greenly@1.2.0

@@ -1,7 +1,7 @@
 {
-  "name": "vscicons",
-  "displayName": "Icons – Maintained",
-  "version": "1.2.12",
+  "name": "ash-icons",
+  "displayName": "Ash Icons",
+  "version": "1.2.13",
   "description": "Beautiful file and folder icons for Visual Studio Code",
   "categories": [
     "Other",
@@ -16,29 +16,16 @@
     "theme",
     "vscode-icons"
   ],
-  "homepage": "https://github.com/yusifaliyevpro/vscode-icons#readme",
-  "bugs": {
-    "url": "https://github.com/yusifaliyevpro/vscode-icons/issues"
-  },
   "license": "MIT",
   "author": {
-    "name": "Yusif Aliyev",
-    "email": "yusifaliyevpro@gmail.com"
+    "name": "Lennox Rose",
+    "email": "lenni1107@icloud.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yusifaliyevpro/vscode-icons"
+    "url": "https://github.com/lennoxrose/ash-icons"
   },
-  "funding": [
-    {
-      "type": "Kofe.al",
-      "url": "https://kofe.al/@yusifaliyevpro"
-    }
-  ],
-  "sponsor": {
-    "url": "https://kofe.al/@yusifaliyevpro"
-  },
-  "publisher": "yusifaliyevpro",
+  "publisher": "lennoxrose",
   "type": "module",
   "scripts": {
     "build": "tsdown && node ./out/extension.js",

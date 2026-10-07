@@ -21,6 +21,7 @@ export default {
   archive: "_fd_folder_archive_open",
   archives: "_fd_folder_archive_open",
   argocd: "_fd_folder_argocd_open",
+  "@ash-modules": "_fd_folder_ash_modules_open",
   ".assets": "_fd_folder_asset_open",
   assets: "_fd_folder_asset_open",
   ".audio": "_fd_folder_audio_open",

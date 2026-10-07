@@ -1,0 +1,15 @@
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" version="1.1" viewBox="0 0 24 24" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m10 4h-6c-1.11 0-2 0.89-2 2v12c0 1.097 0.903 2 2 2h16c1.097 0 2-0.903 2-2v-10c0-1.11-0.9-2-2-2h-8l-2-2z" fill="#45403d" fill-rule="nonzero"/><g transform="matrix(0.11476 0 0 0.11476 10.266 7.3085)">
+  <g stroke-width="0.3" stroke-linejoin="round">
+    <!-- top-left: red -->
+    <polygon points="64,8 24,48 64,71.5" fill="#9E231F" stroke="#9E231F"/>
+    <!-- top-right: dark red -->
+    <polygon points="64,8 104,48 64,71.5" fill="#7D1214" stroke="#7D1214"/>
+    <!-- mid-left: burnt orange -->
+    <polygon points="24,48 64,71.5 44.4,86.7" fill="#C0601E" stroke="#C0601E"/>
+    <!-- mid-right: red -->
+    <polygon points="104,48 64,71.5 83.6,86.7" fill="#A22822" stroke="#A22822"/>
+    <!-- bottom-left: light orange -->
+    <polygon points="44.4,86.7 64,71.5 64,120" fill="#D98A2B" stroke="#D98A2B"/>
+    <!-- bottom-right: dark orange -->
+    <polygon points="64,71.5 83.6,86.7 64,120" fill="#B35A1A" stroke="#B35A1A"/>
+  </g></g></svg>
